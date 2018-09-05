@@ -6,8 +6,6 @@
 import { Component } from '@angular/core';
 import { fadeInOut } from '../../services/animations';
 
-require('./../startbootstrap-new-age/js/new-age.min.js')
-
 @Component({
     selector: 'about',
     templateUrl: './about.component.html',
